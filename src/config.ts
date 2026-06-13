@@ -9,7 +9,7 @@ export const siteConfig = {
     github: "https://github.com/DanOzb",
   },
   aboutMe:
-    "Soon to graduate Systems Developer interested in outlier detection for financial crimes.",
+    "New graduate Systems Developer interested in outlier detection.",
   skills: ["Java", "Spring Boot", "Kotlin", "Jetpack Compose", "Python", "Docker"],
   projects: [
     {
