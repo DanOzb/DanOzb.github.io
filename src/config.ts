@@ -13,6 +13,13 @@ export const siteConfig = {
   skills: ["Java", "Spring Boot", "Kotlin", "Jetpack Compose", "Python", "Docker"],
   projects: [
     {
+      name: "Assay",
+      description:
+        "Automatic test generation and code health reporting tool for Kotlin-Gradle projects",
+      link: "https://github.com/DanOzb/Assay",
+      skills: ["Kotlin", "Gradle"],
+    },
+    {
       name: "Trade Surveillance",
       description:
         "Outlier detection on trades with Spring Boot. Hobby project learning about fintech and financial crimes",
