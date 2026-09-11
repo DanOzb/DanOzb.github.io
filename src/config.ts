@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Danyal Özbek",
-  title: "Systems Developer",
+  title: "Backend and Android developer",
   description: "Portfolio website of Danyal Özbek",
   accentColor: "#1d4ed8",
   social: {
@@ -9,7 +9,7 @@ export const siteConfig = {
     github: "https://github.com/DanOzb",
   },
   aboutMe:
-    "New graduate Systems Developer interested in outlier detection.",
+    "Interested in solving problems via code",
   skills: ["Java", "Spring Boot", "Kotlin", "Jetpack Compose", "Python", "Docker"],
   projects: [
     {
