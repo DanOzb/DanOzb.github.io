@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Danyal Özbek",
-  title: "Backend and Android developer",
+  title: "Software Engineer",
   description: "Portfolio website of Danyal Özbek",
   accentColor: "#1d4ed8",
   social: {
@@ -9,13 +9,20 @@ export const siteConfig = {
     github: "https://github.com/DanOzb",
   },
   aboutMe:
-    "Interested in solving problems via code",
-  skills: ["Java", "Spring Boot", "Kotlin", "Jetpack Compose", "Python", "Docker"],
+    "I'm a software engineer based in Stockholm with a BSc in Computer and Systems Sciences from Stockholm University. I work mostly across backend development and machine learning/AI. Currently building project star, a WYSIWYG website editor in React and Typescript. I'm looking for my first full-time engineering role, ideally somewhere small enough that I get to touch the whole stack. ",
+  skills: ["Java", "Spring Boot", "Kotlin", "Jetpack Compose", "Python", "Typescript/Javascript", "React", "Docker"],
   projects: [
+    {
+      name: "Project Star", 
+      description: 
+        "WYSIWYG website editor with LLM suppor",
+      link: "https://github.com/DanOzb/Project-Star",
+      skills: ["Typescript", "React"]
+    },
     {
       name: "Assay",
       description:
-        "Automatic test generation and code health reporting tool for Kotlin-Gradle projects",
+        "Automatic test generation tool for Kotlin-Gradle projects",
       link: "https://github.com/DanOzb/Assay",
       skills: ["Kotlin", "Gradle"],
     },
@@ -46,7 +53,7 @@ export const siteConfig = {
       school: "Stockholm University",
       degree: "Bachelor in Computer and Systems Sciences",
       dateRange: "2023 - 2026",
-      achievements: [],
+      achievements: ["Completed thesis on unsupervised anomaly detection for IT telemetry data (Full thesis available on request)"],
     }
   ],
 };
