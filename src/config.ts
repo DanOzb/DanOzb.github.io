@@ -10,7 +10,7 @@ export const siteConfig = {
   },
   aboutMe:
     "I'm a software engineer based in Stockholm with a BSc in Computer and Systems Sciences from Stockholm University. I work mostly across backend development and machine learning/AI. ",
-  skills: ["Java", "Spring Boot", "Kotlin", "Jetpack Compose", "Python", "Typescript/Javascript", "React", "Docker"],
+  skills: ["Java", "Spring Boot", "Kotlin", "Jetpack Compose", "Python", "Docker"],
   projects: [
     {
       name: "Assay",
