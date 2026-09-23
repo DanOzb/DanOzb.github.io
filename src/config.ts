@@ -9,16 +9,9 @@ export const siteConfig = {
     github: "https://github.com/DanOzb",
   },
   aboutMe:
-    "I'm a software engineer based in Stockholm with a BSc in Computer and Systems Sciences from Stockholm University. I work mostly across backend development and machine learning/AI. Currently building project star, a WYSIWYG website editor in React and Typescript. I'm looking for my first full-time engineering role, ideally somewhere small enough that I get to touch the whole stack. ",
+    "I'm a software engineer based in Stockholm with a BSc in Computer and Systems Sciences from Stockholm University. I work mostly across backend development and machine learning/AI. ",
   skills: ["Java", "Spring Boot", "Kotlin", "Jetpack Compose", "Python", "Typescript/Javascript", "React", "Docker"],
   projects: [
-    {
-      name: "Project Star", 
-      description: 
-        "WYSIWYG website editor with LLM suppor",
-      link: "https://github.com/DanOzb/Project-Star",
-      skills: ["Typescript", "React"]
-    },
     {
       name: "Assay",
       description:
