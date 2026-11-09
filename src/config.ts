@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Danyal Özbek",
-  title: "Software Engineer",
+  title: "Android developer",
   description: "Portfolio website of Danyal Özbek",
   accentColor: "#1d4ed8",
   social: {
@@ -9,9 +9,16 @@ export const siteConfig = {
     github: "https://github.com/DanOzb",
   },
   aboutMe:
-    "I'm a software engineer based in Stockholm with a BSc in Computer and Systems Sciences from Stockholm University. I work mostly across backend development and machine learning/AI. ",
+    "I'm an android developer from Stockholm interested in designing and building user friendly mobile apps",
   skills: ["Java", "Spring Boot", "Kotlin", "Jetpack Compose", "Python", "Docker"],
   projects: [
+    {
+      name: "RemindMe",
+      description:
+        "Location, time and date based reminders for your android phone",
+      link: "https://github.com/DanOzb/RemindMe",
+      skills: ["Kotlin", "Jetpack Compose"],
+    },
     {
       name: "Assay",
       description:
